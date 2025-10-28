@@ -1,1 +1,1 @@
-jenkins repo for release branch
+jenkins repo for develop branch
