@@ -1,2 +1,2 @@
 # jenkins-repo
-jenkins release repository.
+jenkins release repo.
