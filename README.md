@@ -1,2 +1,2 @@
 # jenkins-repo
-jenkins repository for main branch and for checking poll-SCM changes based on Automation jobs.
+jenkins repository for main branch for checking poll-SCM changes based on Automation jobs.
