@@ -1,2 +1,2 @@
 # jenkins-repo
-jenkins repo for develop branch.
+jenkins repository for develop branch.
