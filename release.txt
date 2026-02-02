@@ -1,2 +1,2 @@
 Content for release branch
-Adding content for the release branch
+Add content for the release branch
